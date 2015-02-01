@@ -1,0 +1,25 @@
+{
+  "name": "email-templates",
+  "version": "0.1.0",
+  "description": "HTML MailChimp email templates",
+  "main": "./",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/peachmeco/email-templates.git"
+  },
+  "author": "Patrick Burtchael <patrick@joinpeach.com>",
+  "license": "All rights reserved.",
+  "bugs": {
+    "url": "https://github.com/peachmeco/email-templates/issues"
+  },
+  "homepage": "https://github.com/peachmeco/email-templates",
+  "devDependencies": {
+    "gulp-inline-css": "^2.0.0",
+    "gulp-less": "^2.0.1"
+  }
+}
